@@ -9,7 +9,6 @@ I'm currently learning the basics of ethical hacking.
 
 You can reach out to me through :
 Instagram : https://www.instagram.com/adithyan_n8/
-Facebook : 
 
 <!--
 **Adithyan8/Adithyan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
