@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi All 👋,
+
+I am a 3rd year Computer Science and Engineering student in RVCE. My areas of interest within the technology domain are :
+1. Full-Stack Developer
+2. Cyber Security
+3. Machine Learning
+
+I'm currently learning the basics of ethical hacking.
 
 <!--
 **Adithyan8/Adithyan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
